@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **my capstone**
+ 🔭 A fresh BSIT graduate
  
  🌱 I’m currently learning **React Native, Supabase, Javascript**
 
